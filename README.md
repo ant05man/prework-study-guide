@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # prework-study-guide
 <!DOCTYPE html>
 <html lang="en">
@@ -7,3 +8,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Prework Study Guide</title>
 </head>
+=======
+# prework-study-guide
+>>>>>>> f97361e76bb7f759a1ae1fb76575a490eff45325
