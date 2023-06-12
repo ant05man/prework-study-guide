@@ -2,11 +2,9 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation? This was created to learn how to use everything we learned from the modules prework and incorporate into webpage
+- This was created to learn how to use everything we learned from the modules prework and incorporate into webpage
 - This solves our need to easily access and review information that we have learned during the prework process
-- I have how to created repositions, create arrays, loops,variables. Learned how to write forms of code for HTML, CSS, JavaScript, and Git
+- I have learned how to created repositions, create arrays, loops,variables. Learned how to write forms of code for HTML, CSS, JavaScript, and Git
 
 
 ## Installation
